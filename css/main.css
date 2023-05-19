@@ -150,7 +150,7 @@ header nav ul li a {
 .section-three {
 	box-sizing: border-box;
 	/****float: left;*****/
-	padding: 0 40px;
+	/***padding: 0 40px;****/
 }
 
 .section-one {
